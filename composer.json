@@ -3,7 +3,6 @@
     "description": "my restful",
     "keywords": ["restful", "ljw"],
     "homepage": "http://github.com/lejianwen/restful",
-    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -19,11 +18,6 @@
     },
     "autoload": {
         "psr-4": {"Ljw\\Restful\\": "src/Restful"}
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "master"
-        }
     }
 
 
