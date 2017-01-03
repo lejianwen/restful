@@ -19,8 +19,12 @@
     },
     "autoload": {
         "psr-4": {"Ljw\\Restful\\": "src/Restful"}
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
+        }
     }
-   
 
 
 }
