@@ -11,10 +11,8 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0"
-    },
-    "require-dev": {
-       "illuminate/database": "*"
+        "php": ">=5.3.0",
+        "illuminate/database": "*"
     },
     "autoload": {
         "psr-4": {"Ljw\\Restful\\": "src/Restful"}
