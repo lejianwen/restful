@@ -6,8 +6,11 @@
  * Time: 16:12
  * QQ: 84855512
  */
-namespace Restful;
+namespace Ljw\Restful;
 class Resource
 {
+    public function __construct()
+    {
 
+    }
 }
